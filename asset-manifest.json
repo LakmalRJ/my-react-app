@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/my-react-app/static/js/main.12bc1c49.js",
+    "main.js": "/my-react-app/static/js/main.b62786b3.js",
     "index.html": "/my-react-app/index.html",
-    "main.12bc1c49.js.map": "/my-react-app/static/js/main.12bc1c49.js.map"
+    "main.b62786b3.js.map": "/my-react-app/static/js/main.b62786b3.js.map"
   },
   "entrypoints": [
-    "static/js/main.12bc1c49.js"
+    "static/js/main.b62786b3.js"
   ]
 }
