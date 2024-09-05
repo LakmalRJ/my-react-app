@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 
 const styles = {
   container: {
-    maxWidth: '1200px',
-    margin: '200px auto',
+    maxWidth: '800px',
+    margin: '100px auto',
     padding: '45px',
     backgroundColor: '#ffffff',
     borderRadius: '15px',
