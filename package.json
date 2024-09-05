@@ -2,11 +2,14 @@
   "name": "reactapps",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "http://LakmalRJ.github.io/my-react-app",
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -28,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
