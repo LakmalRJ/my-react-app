@@ -211,7 +211,7 @@ const VacationSalaryCalculator = () => {
       <div style={styles.formGrid}>
         <div style={styles.formGroup}>
           <label style={styles.label} htmlFor="basicSalary">
-            Basic Salary *
+            Basic Salary *t
           </label>
           <input
             style={styles.input}
